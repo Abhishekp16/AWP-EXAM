@@ -1,0 +1,46 @@
+
+
+#uname{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+#email{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+body{
+    background-color:royalblue;
+    justify-content: center;
+    
+    
+}
+h2{
+    color:crimson;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+}
+#pass{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    align-items: center;
+}
+
+#login{
+text-align: center;
+justify-content: center;
+font-size: 25px;
+}
+
+form{
+    margin-top: 180px;
+}
